@@ -4,10 +4,6 @@ A high-performance Roblox username sniper with pattern support, real-time statis
 
 **Developed by:** [fear.sh](https://fear.subeditor.works/)  and terror._1.
 
-**Discord:** `fear.sh`
-**Discord:** `terror._1.`
----
-
 ## 🚀 Features
 
 - **Multi-Mode Sniping:** Choose from 3-letter, 4-letter, CVCV patterns, or infinite random generation.
