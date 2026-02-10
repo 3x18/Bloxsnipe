@@ -2,9 +2,10 @@
 
 A high-performance Roblox username sniper with pattern support, real-time statistics, and Discord webhook integration.
 
-**Developed by:** [fear.sh](https://fear.subeditor.works/)  
-**Discord:** `fear.sh`
+**Developed by:** [fear.sh](https://fear.subeditor.works/)  and terror._1.
 
+**Discord:** `fear.sh`
+**Discord:** `terror._1.`
 ---
 
 ## 🚀 Features
@@ -52,7 +53,7 @@ python UG.py
 - `UG.py`: Utility script to generate custom username lists.
 - `usernames.txt`: Input file for custom username targets.
 - `valid.txt`: Output file where found usernames are saved.
-- `config.json`: Stores your webhook configuration.
+- `config.json`: Stores your webhook configuration. (Auto generated)
 
 ---
 *Disclaimer: This tool is for educational purposes only. Use responsibly.*
